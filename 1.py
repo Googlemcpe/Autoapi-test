@@ -9,9 +9,9 @@ import json,sys,time
 
 ###################################################################
 #把下方单引号内的内容改为你的应用id                                         #
-id=r'你的应用id'                         
+id=r'8505ba2b-750f-4623-a3fc-4678ffecf4db'                         
 #把下方单引号内的内容改为你的应用机密                                       #
-secret=r'你的应用机密'                                           
+secret=r'OAgABAAAAAAAGV_bv21oQQ4ROqh0_1-tAAQDs_wIA9P-qPdNGrRtV9oF2e88OqxOlHm33eVhLtcd2B2rq736-fFAKGIaj_h_q01XPJjGdv27_xtMIhaFTknEWM19J_RDLhqYnWgJUaTH3L5J6baL8yjvgHuz0uOJ0eUvCocReB-fzhHBAzN2Sms2JfNygtzrxQwUX3bnVIt-HkGevnnLdihEPU3FsE6syJ0Upq1tvRKEAtjKE09zeWlpDSCBqefzgtZDSoUp2nExp3J4yt3rdMZsas0BRZr4o8OfYoTBhPZ3_CPzQyJVitf0-qngjzIgB-8KcSYfHuEfvdUUeYm2qw13_jNLxF3cVACR-oOfyoaRNYLjvMduHGKuSQWGWHtp05FhPVtnZh03QWg6hBcMpei-98B0MJGxTfijJ3Aru5OJLqxoaCFmLUe9p63_DW6CkeksMZs5jCpx2huVnF-h4yUzOfMRMkoIix2qKcar5P_oz2PCVeJWzLL_qnNY3I6wFCLNwxEigYgf_OPbp_shf5JE33tvMDI83b0hJP94cgiyiqEatkx5KudIE-k75S_VWPSBlwnaYfNqcP-ECa1Jxkx56ixs-jO_VrtJie0KR0ePX13rr_9Y0OeBMvoAOlrNaDqwyswupaQ-Epr1gHSxpK7bsqlJDeU7duYWRsT83EMDWkwy63FyqDRhMqqjViPZGv9cjdGSXGpUnUS3kJbuhQIbFH4Q_FeAfK9WRH-_uvbKMvk3AeauOJO1co9YfTvi4ii_Lw6zDxjYybaiC2yhaDO3JcnC5ouxca4X2HR_ZSYDZgSzLXUhp6y6K0Ok6Dr7XG9YXYBPEcMiWXhH6_c9IcrQ1uk_i9Dgo-Z2doFwh_hA8oj9fdJstbr8AhXYfRRnpHK8PyQ8QaDpCs_NjzWtI76AeWOOSZXc-R4lXZKMPQ33cf8rPOOtxK1PZqq5ifWCTquNl0bc-FsZSmDkF5ekq'                                           
 ###################################################################
 
 path=sys.path[0]+r'/1.txt'
